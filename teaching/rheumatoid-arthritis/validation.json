@@ -1,0 +1,18 @@
+{
+  "slides": 25,
+  "pdf_pages": 25,
+  "all_images_decode": true,
+  "pptx_zip_integrity": "passed",
+  "speaker_notes": "25 original lecture sections",
+  "visual_review": "all 25 slides reviewed; MTX calendar frequency error regenerated before delivery",
+  "files": {
+    "rheumatoid-arthritis.pptx": {
+      "bytes": 36763038,
+      "sha256": "72bef37f30f301a439cc3ef735ad9d36d26f4bee9e97b44e90c25087840acb8d"
+    },
+    "rheumatoid-arthritis.pdf": {
+      "bytes": 44238159,
+      "sha256": "496b3f73f923ad44a13f3ae007d25b8ec0921855853dffa09a3bcb583b199c1a"
+    }
+  }
+}
